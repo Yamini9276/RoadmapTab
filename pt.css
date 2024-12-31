@@ -1,0 +1,94 @@
+main {
+  height: 50vmin;
+  width: auto;
+  border-radius: 30px;
+  border: 2px solid black;
+}
+.navbar {
+    height:5vmin;
+    width:inherit;
+    background-color:white;
+    display: flex;
+    padding-top: 1.5vmin;
+    color:black;
+    margin-top: 5px;
+    margin-left: 17px;
+    margin-right: 12px;
+}
+.tab {
+    display: inline-block;
+    padding-right: 20px;
+    text-decoration: none;
+    color:inherit;
+    background-color: inherit;
+    border:none;
+    cursor: pointer;
+    font-size: 3vmin;
+}
+.content1 {
+    margin-top: 5px;
+    margin-left: 17px;
+    margin-right: 12px;
+}
+#content1 {
+    height:20vmin;
+    width:auto;
+    border-radius: 30px;
+    background-color: black;
+    color: white;
+    
+}
+.hide1{
+    display: none;
+}
+.content2 {
+    margin-top: 5px;
+    margin-left: 17px;
+    margin-right: 12px;
+}
+#content2{
+    height:20vmin;
+    width:auto;
+    border-radius: 30px;
+    background-color: black;
+    color: white;
+    
+}
+.hide2{
+    display: none;
+}
+.content3 {
+    margin-top: 5px;
+    margin-left: 17px;
+    margin-right: 12px;
+}
+#content3{
+    height:20vmin;
+    width:auto;
+    border-radius: 30px;
+    background-color: black;
+    color: white;
+    
+}
+.content4 {
+    margin-top: 5px;
+    margin-left: 17px;
+    margin-right: 12px;
+}
+#content4{
+    height:20vmin;
+    width:auto;
+    border-radius: 30px;
+    background-color: black;
+    color: white;
+    
+}
+
+
+.hide3{
+    display: none;
+}
+.hide4{
+    display: none;
+} 
+
